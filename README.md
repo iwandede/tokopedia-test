@@ -1,6 +1,7 @@
 # Denomination Currency
 This application was built to meet the tokopedia application test.
-
+## Demo
+For live test you can access this url [https://test-tokopedia.netlify.com/](https://test-tokopedia.netlify.com/)
 ## Getting Started
 Assuming you’ve already installed Node.js, NPM or Yarn, create a directory to hold your application, and make that your working directory.
 
