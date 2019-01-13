@@ -52,14 +52,6 @@ or
 ```
 $ yarn build
 ```
-## Run your tests
-```
-yarn run test
-```
-### Lints and fixes files
-```
-yarn run lint
-```
 ## Acssessing the application
 Open your browser and enter the URL
 ```
