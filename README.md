@@ -1,26 +1,70 @@
-# tokopedia
+# Denomination Currency
+This application was built to meet the tokopedia application test.
 
-## Project setup
-```
-yarn install
+## Getting Started
+Assuming you’ve already installed Node.js, NPM or Yarn, create a directory to hold your application, and make that your working directory.
+
+## Application details
+This application is built with several tools, namely:
+- Vue Js
+- Vuetify Framework
+- Babel
+- Webpack
+- eslint
+## Installation
+This application requires requires [Node.js](https://nodejs.org/) v4+ to run.
+
+Clone or Download this repository
+```sh
+$ git clone https://github.com/iwandede/tokopedia-test
 ```
 
-### Compiles and hot-reloads for development
+Enter your Working directory
 ```
-yarn run serve
-```
-
-### Compiles and minifies for production
-```
-yarn run build
+$ cd tokopedia-test
 ```
 
-### Run your tests
+Install the dependencies and devDependencies
+If you using NPM
+```
+$ npm install
+```
+
+If you using YARN
+```
+$ yarn
+```
+## Start Server
+```
+$ yarn start
+```
+or
+```
+$ npm start
+```
+## Building for production
+
+The application will generate a folder for production with the name dist folder on the root of the tokopedia-test directory
+```
+$ npm run build
+```
+or
+```
+$ yarn build
+```
+## Run your tests
 ```
 yarn run test
 ```
-
 ### Lints and fixes files
 ```
 yarn run lint
 ```
+## Acssessing the application
+Open your browser and enter the URL
+```
+http://localhost:8080 (or port your default setting)
+```
+## Todos
+ - Write MORE Tests
+ - Add Night Mode
